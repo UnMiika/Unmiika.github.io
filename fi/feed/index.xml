@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Miika Unkila</title>
-	<atom:link href="/UnMiika.github.io/fi/feed/" rel="self" type="application/rss+xml" />
-	<link>/UnMiika.github.io</link>
+	<atom:link href="https://unmiika-github-io.pages.dev/fi/feed/" rel="self" type="application/rss+xml" />
+	<link>https://unmiika-github-io.pages.dev</link>
 	<description></description>
 	<lastBuildDate>Fri, 28 Apr 2023 14:27:24 +0000</lastBuildDate>
 	<language>fi</language>
@@ -21,9 +21,9 @@
 	<generator>https://wordpress.org/?v=6.2</generator>
 
 <image>
-	<url>/UnMiika.github.io/wp-content/uploads/2023/04/cropped-MuLogo2-32x32.png</url>
+	<url>https://unmiika-github-io.pages.dev/wp-content/uploads/2023/04/cropped-MuLogo2-32x32.png</url>
 	<title>Miika Unkila</title>
-	<link>/UnMiika.github.io</link>
+	<link>https://unmiika-github-io.pages.dev</link>
 	<width>32</width>
 	<height>32</height>
 </image> 

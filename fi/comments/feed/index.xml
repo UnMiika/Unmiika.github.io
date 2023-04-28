@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Sivuston Miika Unkila kommentit	</title>
-	<atom:link href="/UnMiika.github.io/fi/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>/UnMiika.github.io</link>
+	<atom:link href="https://unmiika-github-io.pages.dev/fi/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://unmiika-github-io.pages.dev</link>
 	<description></description>
 	<lastBuildDate>Fri, 28 Apr 2023 14:27:24 +0000</lastBuildDate>
 	<sy:updatePeriod>
