@@ -1,0 +1,3 @@
+jQuery.ajaxSetup({
+    crossDomain: true
+});
