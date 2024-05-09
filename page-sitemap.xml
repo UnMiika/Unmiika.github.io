@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://miikaunkila.com/</loc>
-		<lastmod>2023-05-29T14:32:22+00:00</lastmod>
+		<lastmod>2024-05-09T09:22:05+00:00</lastmod>
 		<image:image>
 			<image:loc>https://miikaunkila.com/wp-content/uploads/2023/04/ProfPicSmall-edited.png</image:loc>
 		</image:image>
@@ -14,13 +14,6 @@
 	<url>
 		<loc>https://miikaunkila.com/yhteystiedot/</loc>
 		<lastmod>2023-05-26T13:22:16+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://miikaunkila.com/en/about/</loc>
-		<lastmod>2023-05-28T11:08:28+00:00</lastmod>
-		<image:image>
-			<image:loc>https://miikaunkila.com/wp-content/uploads/2023/04/ProfPicSmall-edited.png</image:loc>
-		</image:image>
 	</url>
 	<url>
 		<loc>https://miikaunkila.com/studio/</loc>
@@ -43,8 +36,8 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://miikaunkila.com/cv/</loc>
-		<lastmod>2023-08-04T15:42:20+00:00</lastmod>
+		<loc>https://miikaunkila.com/en/selected-works/</loc>
+		<lastmod>2024-05-09T09:19:52+00:00</lastmod>
 		<image:image>
 			<image:loc>https://miikaunkila.com/wp-content/uploads/2023/05/StudyIcon.png</image:loc>
 		</image:image>
@@ -83,11 +76,26 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://miikaunkila.com/wp-content/uploads/2023/05/LiveIcon.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://miikaunkila.com/wp-content/uploads/2023/05/LiveIcon.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://miikaunkila.com/wp-content/uploads/2023/05/RecIcon.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://miikaunkila.com/wp-content/uploads/2023/05/RecIcon.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://miikaunkila.com/wp-content/uploads/2023/05/RecIcon.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://miikaunkila.com/wp-content/uploads/2023/05/RecIcon.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://miikaunkila.com/en/selected-works/</loc>
-		<lastmod>2023-08-04T15:47:36+00:00</lastmod>
+		<loc>https://miikaunkila.com/cv/</loc>
+		<lastmod>2024-05-09T09:20:58+00:00</lastmod>
 		<image:image>
 			<image:loc>https://miikaunkila.com/wp-content/uploads/2023/05/StudyIcon.png</image:loc>
 		</image:image>
@@ -116,6 +124,15 @@
 			<image:loc>https://miikaunkila.com/wp-content/uploads/2023/05/LiveIcon.png</image:loc>
 		</image:image>
 		<image:image>
+			<image:loc>https://miikaunkila.com/wp-content/uploads/2023/05/RecIcon.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://miikaunkila.com/wp-content/uploads/2023/05/RecIcon.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://miikaunkila.com/wp-content/uploads/2023/05/LiveIcon.png</image:loc>
+		</image:image>
+		<image:image>
 			<image:loc>https://miikaunkila.com/wp-content/uploads/2023/05/LiveIcon.png</image:loc>
 		</image:image>
 		<image:image>
@@ -125,7 +142,17 @@
 			<image:loc>https://miikaunkila.com/wp-content/uploads/2023/05/RecIcon.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://miikaunkila.com/wp-content/uploads/2023/05/LiveIcon.png</image:loc>
+			<image:loc>https://miikaunkila.com/wp-content/uploads/2023/05/RecIcon.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://miikaunkila.com/wp-content/uploads/2023/05/RecIcon.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://miikaunkila.com/en/about/</loc>
+		<lastmod>2024-05-09T09:21:36+00:00</lastmod>
+		<image:image>
+			<image:loc>https://miikaunkila.com/wp-content/uploads/2023/04/ProfPicSmall-edited.png</image:loc>
 		</image:image>
 	</url>
 </urlset>

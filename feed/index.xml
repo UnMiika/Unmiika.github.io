@@ -12,13 +12,13 @@
 	<atom:link href="https://miikaunkila.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://miikaunkila.com/</link>
 	<description>Musiikin tuotanto, Äänitys ja Miksaus Tampere</description>
-	<lastBuildDate>Fri, 04 Aug 2023 15:47:36 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 09 May 2024 09:22:05 +0000</lastBuildDate>
 	<language>fi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
 
 <image>
 	<url>https://miikaunkila.com/wp-content/uploads/2023/04/cropped-MuLogo2-32x32.png</url>
