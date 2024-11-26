@@ -10,20 +10,20 @@
 <channel>
 	<title>Miika Unkila &#8211; Tuottaja, Miksaaja, Ääniteknikko</title>
 	<atom:link href="https://miikaunkila.com/feed/" rel="self" type="application/rss+xml" />
-	<link>https://miikaunkila.com/</link>
+	<link>https://miikaunkila.com</link>
 	<description>Musiikin tuotanto, Äänitys ja Miksaus Tampere</description>
-	<lastBuildDate>Thu, 09 May 2024 09:22:05 +0000</lastBuildDate>
-	<language>fi</language>
+	<lastBuildDate>Tue, 26 Nov 2024 11:50:51 +0000</lastBuildDate>
+	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.3</generator>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
 
 <image>
 	<url>https://miikaunkila.com/wp-content/uploads/2023/04/cropped-MuLogo2-32x32.png</url>
 	<title>Miika Unkila &#8211; Tuottaja, Miksaaja, Ääniteknikko</title>
-	<link>https://miikaunkila.com/</link>
+	<link>https://miikaunkila.com</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
